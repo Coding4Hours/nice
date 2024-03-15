@@ -1,4 +1,4 @@
-## BlobBypass
+## [BlobBypass](https://sites.google.com/view/edu-blobe/apps/blobwifi)
 BlobBypass is an exploit that allows Chromebook users to bypass website restrictions. It requires [Blobwifi](https://sites.google.com/view/edu-blobe/apps/blobwifi) to function.
 
 - Pages visited in this window will not be saved to your history, but their cookies will be saved.
