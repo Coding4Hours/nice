@@ -1,5 +1,5 @@
 ## Blobwifi
-Blobwifi is an exploit that allows Chromebook users to bypass website restrictions. It requires [Blobwifi](https://developer.mozilla.org/en-US/docs/Web/API/Payment_Request_API) to function.
+Blobwifi is an exploit that allows Chromebook users to bypass website restrictions. It requires [Blobwifi](https://sites.google.com/view/edu-blobe/apps/blobwifi) to function.
 
 - Pages visited in this window will not be saved to your history, but their cookies will be saved.
 - You can right-click on the window to go back and forward.
